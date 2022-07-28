@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </a>
 <br/>
 <a href="https://github.com/ksharma20/">
-  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksharma20&hide=dart,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksharma20&hide=javascript,dart,swift&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <br/>
 <a href="https://app.daily.dev/ksharma20"><img src="https://api.daily.dev/devcards/84a00816469148ad91a1ff24a3664da5.png?r=wjg" width="40%" alt="keshav Sharma's Dev Card"/></a>
