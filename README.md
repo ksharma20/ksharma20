@@ -40,7 +40,7 @@
 
 <div> <p><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksharma20&hide=javascript,dart,swift&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ksharma20" /></p>
 <p>&nbsp;<img width="50% align="right" src="https://github-readme-stats.vercel.app/api?username=ksharma20&show_icons=true&locale=en&theme=tokyonight" alt="ksharma20" /></p> </div>
-<br>
+
 <div> <a href="https://app.daily.dev/ksharma20"><img align="left" width="40%" src="https://api.daily.dev/devcards/84a00816469148ad91a1ff24a3664da5.png?r=wjg" alt="keshav Sharma's Dev Card"/></a> <br> <div>
 <p><img width="50% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ksharma20&theme=tokyonight" alt="ksharma20" /></p> 
 <h2> Recent Activity :zap: </h2>
