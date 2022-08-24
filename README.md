@@ -45,6 +45,11 @@
 <p><img width="40% align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ksharma20&theme=tokyonight" alt="ksharma20" /></p> 
 <h2> Recent Activity :zap: </h2>
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#51891](https://github.com/firstcontributions/first-contributions/pull/51891) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 💪 Opened PR [#51910](https://github.com/firstcontributions/first-contributions/pull/51910) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+3. 💪 Opened PR [#51891](https://github.com/firstcontributions/first-contributions/pull/51891) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+4. 💪 Opened PR [#1](https://github.com/Posandu/StackFlex/pull/1) in [Posandu/StackFlex](https://github.com/Posandu/StackFlex)
+5. ❗️ Opened issue [#637](https://github.com/pyscript/pyscript/issues/637) in [pyscript/pyscript](https://github.com/pyscript/pyscript)
 <!--END_SECTION:activity-->
 </div>
 </div>
