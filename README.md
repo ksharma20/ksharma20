@@ -26,13 +26,13 @@
 <p align="left">
 <a href="https://twitter.com/ksharma20_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ksharma20_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ksharma20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ksharma20" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ksharma20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ksharma20" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14834563/ksharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ksharma20" height="30" width="40" /></a>
 <a href="https://kaggle.com/ksharma20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ksharma20" height="30" width="40" /></a>
 <a href="https://fb.com/ksharma20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ksharma20" height="30" width="40" /></a>
 <a href="https://instagram.com/ksharma20_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ksharma20_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ksharma20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ksharma20" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ksharma20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ksharma20" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/ksharma20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ksharma20" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ksharma20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ksharma20" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
