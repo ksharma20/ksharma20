@@ -46,11 +46,11 @@
 <h2> Recent Activity :zap: </h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/chandan-02/anime-facts-rest-api/pull/5) in [chandan-02/anime-facts-rest-api](https://github.com/chandan-02/anime-facts-rest-api)
-2. ❌ Closed PR [#51891](https://github.com/firstcontributions/first-contributions/pull/51891) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-3. 💪 Opened PR [#51910](https://github.com/firstcontributions/first-contributions/pull/51910) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-4. 💪 Opened PR [#51891](https://github.com/firstcontributions/first-contributions/pull/51891) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
-5. 💪 Opened PR [#1](https://github.com/Posandu/StackFlex/pull/1) in [Posandu/StackFlex](https://github.com/Posandu/StackFlex)
+1. 💪 Opened PR [#8](https://github.com/wardi/django-dynamicsites-lite/pull/8) in [wardi/django-dynamicsites-lite](https://github.com/wardi/django-dynamicsites-lite)
+2. 💪 Opened PR [#5](https://github.com/chandan-02/anime-facts-rest-api/pull/5) in [chandan-02/anime-facts-rest-api](https://github.com/chandan-02/anime-facts-rest-api)
+3. ❌ Closed PR [#51891](https://github.com/firstcontributions/first-contributions/pull/51891) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+4. 💪 Opened PR [#51910](https://github.com/firstcontributions/first-contributions/pull/51910) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+5. 💪 Opened PR [#51891](https://github.com/firstcontributions/first-contributions/pull/51891) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
 <!--END_SECTION:activity-->
 </div>
 </div>
