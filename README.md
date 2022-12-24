@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Problem Solving](https://github.com/ksharma20/Problem-Solving)
 
-- 🌱 I’m currently learning **Vue.js, Data structures & Algorithms**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on [Open Source Projects](https://opensourcefriday.com/)
 
