@@ -47,10 +47,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9443](https://github.com/PrefectHQ/prefect/issues/9443) in [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)
-2. 🗣 Commented on [#2730](https://github.com/webhintio/hint/issues/2730) in [webhintio/hint](https://github.com/webhintio/hint)
-3. 🗣 Commented on [#7448](https://github.com/NativeScript/NativeScript/issues/7448) in [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript)
-4. 🗣 Commented on [#2996](https://github.com/owncast/owncast/issues/2996) in [owncast/owncast](https://github.com/owncast/owncast)
-5. 💪 Opened PR [#51910](https://github.com/firstcontributions/first-contributions/pull/51910) in [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions)
+2. 🗣 Commented on [#9443](https://github.com/PrefectHQ/prefect/issues/9443) in [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect)
+3. 🗣 Commented on [#2730](https://github.com/webhintio/hint/issues/2730) in [webhintio/hint](https://github.com/webhintio/hint)
+4. 🗣 Commented on [#7448](https://github.com/NativeScript/NativeScript/issues/7448) in [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript)
+5. 🗣 Commented on [#2996](https://github.com/owncast/owncast/issues/2996) in [owncast/owncast](https://github.com/owncast/owncast)
 <!--END_SECTION:activity-->
 </div>
 </div>
