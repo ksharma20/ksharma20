@@ -47,10 +47,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3005](https://github.com/owncast/owncast/issues/3005) in [owncast/owncast](https://github.com/owncast/owncast)
-2. 🗣 Commented on [#50452](https://github.com/WordPress/gutenberg/issues/50452) in [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
+2. 🗣 Commented on [#3005](https://github.com/owncast/owncast/issues/3005) in [owncast/owncast](https://github.com/owncast/owncast)
 3. 🗣 Commented on [#50452](https://github.com/WordPress/gutenberg/issues/50452) in [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 4. 🗣 Commented on [#50452](https://github.com/WordPress/gutenberg/issues/50452) in [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
-5. 🗣 Commented on [#55](https://github.com/Chris5613/RankRiddler/issues/55) in [Chris5613/RankRiddler](https://github.com/Chris5613/RankRiddler)
+5. 🗣 Commented on [#50452](https://github.com/WordPress/gutenberg/issues/50452) in [WordPress/gutenberg](https://github.com/WordPress/gutenberg)
 <!--END_SECTION:activity-->
 </div>
 </div>
