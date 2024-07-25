@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav Sharma</h1>
-<h3 align="center">A 4th year COE Student (at Thapar University, Patiala) and passionate Python Backend developer from India</h3>
+<h3 align="center">A Software Developer/Engineer from India</h3>
 <br>
 <p align="left"> <a href="https://github.com/ksharma20" target="blank"><img src="https://img.shields.io/github/followers/ksharma20?color=red&label=follow&logo=github&style=for-the-badge" alt="ksharma20" /></a> &nbsp; &nbsp; <a href="https://twitter.com/ksharma20_" target="blank"><img src="https://img.shields.io/twitter/follow/ksharma20_?color=blue&label=follow&logo=twitter&style=for-the-badge" alt="ksharma20_" /></a> </p>
 
