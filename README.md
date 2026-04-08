@@ -50,10 +50,10 @@
 <h2> Recent Activity :zap: </h2> 
 <div>
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v0.0.1](https://github.com/ksharma20/vscode-python-essentials-extension-pack/releases/tag/v0.0.1) in [ksharma20/vscode-python-essentials-extension-pack](https://github.com/ksharma20/vscode-python-essentials-extension-pack)
-2. ❗ Opened issue [#13204](https://github.com/facebook/create-react-app/issues/13204) in [facebook/create-react-app](https://github.com/facebook/create-react-app) <br> <br>
-3. 🗣 Commented on [#50590](https://github.com/WordPress/gutenberg/pull/50590#issuecomment-1557233477) in [WordPress/gutenberg](https://github.com/WordPress/gutenberg) <br> <br>
-4. 🗣 Commented on [#3005](https://github.com/owncast/owncast/pull/3005#issuecomment-1554335701) in [owncast/owncast](https://github.com/owncast/owncast) <br> <br>
+1. ℹ️ Assigned PR [#1](https://github.com/ksharma20/venzio/pull/1) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+2. ℹ️ Unassigned PR [#1](https://github.com/ksharma20/venzio/pull/1) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+3. ℹ️ Unassigned PR [#1](https://github.com/ksharma20/venzio/pull/1) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+4. ℹ️ Assigned PR [#1](https://github.com/ksharma20/venzio/pull/1) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
 5. 🗣 Commented on [#3005](https://github.com/owncast/owncast/pull/3005#issuecomment-1551404691) in [owncast/owncast](https://github.com/owncast/owncast) <br> <br>
 <!--END_SECTION:activity-->
 </div>
