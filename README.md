@@ -50,10 +50,10 @@
 <h2> Recent Activity :zap: </h2> 
 <div>
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#17](https://github.com/ksharma20/venzio/issues/17) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
-2. ℹ️ Unlabeled issue [#17](https://github.com/ksharma20/venzio/issues/17) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
-3. ℹ️ Labeled issue [#17](https://github.com/ksharma20/venzio/issues/17) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
-4. ℹ️ Unlabeled issue [#17](https://github.com/ksharma20/venzio/issues/17) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
-5. ℹ️ Labeled issue [#19](https://github.com/ksharma20/venzio/issues/19) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+1. 🔒 Closed issue [#17](https://github.com/ksharma20/venzio/issues/17) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+2. 🔒 Closed issue [#14](https://github.com/ksharma20/venzio/issues/14) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+3. 🔒 Closed issue [#13](https://github.com/ksharma20/venzio/issues/13) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+4. 🔒 Closed issue [#5](https://github.com/ksharma20/venzio/issues/5) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+5. 🔒 Closed issue [#10](https://github.com/ksharma20/venzio/issues/10) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
 <!--END_SECTION:activity-->
 </div>
