@@ -50,10 +50,10 @@
 <h2> Recent Activity :zap: </h2> 
 <div>
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/ksharma20/venzio/pull/32) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
-2. 💪 Opened PR [#32](https://github.com/ksharma20/venzio/pull/32) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
-3. 🎉 Merged PR [#31](https://github.com/ksharma20/venzio/pull/31) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
-4. 💪 Opened PR [#31](https://github.com/ksharma20/venzio/pull/31) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
-5. 🎉 Merged PR [#30](https://github.com/ksharma20/venzio/pull/30) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+1. 💪 Opened PR [#33](https://github.com/ksharma20/venzio/pull/33) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+2. 🎉 Merged PR [#32](https://github.com/ksharma20/venzio/pull/32) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+3. 💪 Opened PR [#32](https://github.com/ksharma20/venzio/pull/32) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+4. 🎉 Merged PR [#31](https://github.com/ksharma20/venzio/pull/31) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
+5. 💪 Opened PR [#31](https://github.com/ksharma20/venzio/pull/31) in [ksharma20/venzio](https://github.com/ksharma20/venzio)
 <!--END_SECTION:activity-->
 </div>
